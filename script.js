@@ -28,4 +28,4 @@ nlwSetup.setData(data)
 nlwSetup.load()
 
 let nome = prompt ("Qual seu nome? 🤔💭")
-alert("Olá, " + nome + "Seja bem vindo (a)")
+alert("Olá,"  + nome +  "Seja bem vindo (a)")
