@@ -27,3 +27,5 @@ const data = JSON.parse(localStorage.getItem("NLWSetup@habits"))
 nlwSetup.setData(data)
 nlwSetup.load()
 
+let nome = prompt ("Qual seu nome? 🤔💭")
+alert("Olá," + nome + "Seja bem vindo (a)")
